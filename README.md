@@ -88,7 +88,7 @@ Die so berechneten Politikfelder lassen sich als Netzwerke visualisieren, bei de
 **utils_text_processing.R** enthält eine Reihe von Hilfsfunktionen, um Tokens und Dokumente zu verarbeiten
 
 ## Credits
-Erstellung des Prototypen für den Klassifizierungsprozess: Erik Wolfes-Wenker & Tim König
+Erstellung des Prototypen für den Klassifizierungsprozess: Erik Wolfes-Wenker, Wolf Schünemann & Tim König
 
 Erstellung der Funktionen, Workflows und Skripte für Evaluation, regelmäßige und initiale Klassifikation: Tim König
 
